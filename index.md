@@ -25,9 +25,22 @@ Academia Naval Almirante Illingworth
 ### Estudios Universitarios
 - Cursando 5to Semestre de Ingenieria en Computación en la Universidad Politécnica Salesiana
 
-## Habilidades
-- 
+## Capacidades
+
+### Habilidades
+- Programas Office
+- Inglés B1
+- Conocimiento de herramientas de diseño y edición
+- Trabajo en equipo
+- Creatividad
+- Proactividad
+- Rapidez para aprender
+
+### Lenguajes de programación aprendidos
+- Java
+- Python
   
+
 
 
 
